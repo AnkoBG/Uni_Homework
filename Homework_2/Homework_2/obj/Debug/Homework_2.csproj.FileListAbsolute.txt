@@ -1,0 +1,5 @@
+c:\users\meathead\documents\visual studio 2015\Projects\Homework_2\Homework_2\obj\Debug\Homework_2.csprojResolveAssemblyReference.cache
+c:\users\meathead\documents\visual studio 2015\Projects\Homework_2\Homework_2\bin\Debug\Homework_2.exe
+c:\users\meathead\documents\visual studio 2015\Projects\Homework_2\Homework_2\bin\Debug\Homework_2.pdb
+c:\users\meathead\documents\visual studio 2015\Projects\Homework_2\Homework_2\obj\Debug\Homework_2.exe
+c:\users\meathead\documents\visual studio 2015\Projects\Homework_2\Homework_2\obj\Debug\Homework_2.pdb
